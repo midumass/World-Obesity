@@ -23,3 +23,4 @@ The World Bank Population data can be found at:
 
 https://datacatalog.worldbank.org/dataset/population-estimates-and-projections
 
+![](obs_map.png)
