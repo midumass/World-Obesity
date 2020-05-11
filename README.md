@@ -34,6 +34,6 @@ This marked change is important. As the obesity dilemma evolves, more and more n
 
 Where will this leave us in 20 years? At current rates of increase, the entire adult population could be obese. 
 
-![](obs_pop_future)
+![](obs_pop_future.png)
 
 Imagine how much healthcare will cost then.
