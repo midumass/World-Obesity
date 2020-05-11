@@ -37,3 +37,5 @@ Where will this leave us in 20 years? At current rates of increase, the entire a
 ![](images/obs_pop_future.png)
 
 Imagine how much healthcare will cost then.
+
+Code and Data can be pulled from the linked repository found [here](https://github.com/midumass/World_Obesity/tree/master/).
