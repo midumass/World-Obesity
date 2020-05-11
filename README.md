@@ -28,4 +28,12 @@ We see some nations have far higher rates than others, but we also see that no c
 
 ![](obs_hist_ani.gif)
 
-This marked change is important. 
+This marked change is important. As the obesity dilemma evolves, more and more nations will suffer the effects. Today, many nations now have more obese adults than non-obese and many more are coming close. The total population is climbing rapidly, but the obese population is increasing at an even greater rate. 
+
+![](obs_pop.png)
+
+Where will this leave us in 20 years? At current rates of increase, the entire adult population could be obese. 
+
+![](obs_pop_future)
+
+Imagine how much healthcare will cost then.
