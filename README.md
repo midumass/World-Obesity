@@ -25,11 +25,11 @@ To understand obesity we need to understand first how prevalent it is. It is not
 
 ![](images/obs_map.png)
 
-We see some nations have far higher rates than others, but we also see that no country is immune. This is a drastic change from the early 1970's. In the early 1975, more than a quarter of nations reported obesity rates below 1%. Today, no nations report below 1% and only one reports obesity rates under 3%.
+We see some nations have far higher rates than others, but we also see that no country is immune. This is a drastic change from the early 1970's. In 1975, more than a quarter of nations reported obesity rates below 1%. Today, no nations report below 1% and only one reports obesity rates under 3%.
 
 ![](images/obs_hist_ani.gif)
 
-This marked change is important. As the obesity dilemma evolves, more and more nations will suffer the effects. Today, many nations now have more obese adults than non-obese and many more are coming close. The total population is climbing rapidly, but the obese population is increasing at an even greater rate. 
+This marked change is important. As the obesity dilema evolves, more and more nations will suffer the effects. Today, many nations have more obese adults than non-obese and many more are coming close. The total population is climbing rapidly, but the obese population is increasing at an even greater rate. 
 
 ![](images/obs_pop.png)
 
