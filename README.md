@@ -15,6 +15,7 @@ A second disease highly associated with obesity is heart disease. Three major fa
 
 ### Data
 Two datasets were compiled to analyze the prevalence of obesity; one for the obesity numbers themselves, provided by the World Health Organization and one from the World Bank for population analysis. The two were merged to allow analysis of obesity by both country and raw population numbers. While both datasets are considered crude estimates, all should be relative. 
+
 The World Health Organization (WHO) dataset can be downloaded from [here](https://www.who.int/data/gho/data/themes/theme-details/GHO/body-mass-index-(bmi)).
 
 The World Bank Population data can be found [here](https://datacatalog.worldbank.org/dataset/population-estimates-and-projections).
