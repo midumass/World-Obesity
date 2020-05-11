@@ -19,7 +19,7 @@ The World Health Organization (WHO) dataset can be downloaded from [here](https:
 
 The World Bank Population data can be found [here](https://datacatalog.worldbank.org/dataset/population-estimates-and-projections).
 
-## Results
+### Results
 To understand obesity we need to understand first how prevalent it is. It is not limited to rich or poor, it is becoming an epidemic everywhere as indicated below.
 
 ![](obs_map.png)
